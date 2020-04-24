@@ -200,6 +200,10 @@ after that you have to create the ssh key in profile setting;
 
 >>>git checkout master
 
+>>>git branch
+
+->To see the all the branch
+
 
 
 
