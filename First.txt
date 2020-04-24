@@ -204,6 +204,14 @@ after that you have to create the ssh key in profile setting;
 
 ->To see the all the branch
 
+28. To merge go to master
+
+>>> git merge <branch_name>
+
+
+
+
+
 
 
 
