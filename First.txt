@@ -208,6 +208,9 @@ after that you have to create the ssh key in profile setting;
 
 >>> git merge <branch_name>
 
+29. T0 get back to a particular Commit ----------------------->
+
+>>>git checkout <identifier number> <filename>
 
 
 
