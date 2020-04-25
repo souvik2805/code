@@ -214,8 +214,7 @@ after that you have to create the ssh key in profile setting;
 
 -->This command will bring back the old file to CWD
 
->>>git checkout --<filename>
-
+Rdafffffffffffff
 
 
 
