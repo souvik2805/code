@@ -84,6 +84,8 @@ db.mycol.find({"likes": {$gt:10}, $or: [{"by": "tutorials point"},
 
 
 
+https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm
+
 
 
 
