@@ -20,4 +20,5 @@ Auto Formating the Code
 find format Document and click to bind.<br>
 For using Prettier automatically.
 
+### Simple React Snippets
 
