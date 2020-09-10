@@ -21,7 +21,7 @@ const {street, city, country} = address;
 const {street:st} = address;
 ```
 
-### 2. Object Destrueing
+### 2.  Spred Operator
 ```sh
 
 const first = [1,2,3];
