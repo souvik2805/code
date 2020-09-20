@@ -55,6 +55,16 @@ CREATE TABLE testdb.COMPANY(
 );
  
  ```
+ 
+ ```
+ \list                   -- list all databases
+\connect test_db        -- connect to a database
+
+
+DROP DATABASE IF EXISTS test_db;
+CREATE DATABASE test_db;
+ 
+ ```
 
 
 
