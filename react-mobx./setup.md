@@ -1,5 +1,5 @@
 
-##  mobx
+#  mobx
    
   npm install -E mobx
 "mobx": "5.15.7",
@@ -91,7 +91,7 @@ mycart.add({ name: "computer2", price: 200 });
 ```
 
 
-##### showing  wrong  syntax for mobx  ide  in 
+### showing  wrong  syntax for mobx  ide  in 
 1. add  `tsconfig.json` file.
 2. in file add this code
 ```
