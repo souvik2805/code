@@ -1,4 +1,3 @@
-
 #  mobx
    
   npm install -E mobx
@@ -18,9 +17,7 @@ npm i --save-dev @babel/plugin-proposal-class-properties @babel/plugin-proposal-
 	"@babel/plugin-proposal-decorators": "^7.10.5"
 }
 
--
-
-**Set up 1**
+### **Set up 1**
 ```
 >> npx create-react-app mymobx-1
 	
