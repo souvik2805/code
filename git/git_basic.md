@@ -245,7 +245,7 @@ after that you have to create the ssh key in profile setting;
 ##### 27.-------------------------Creating and Switching Branches--------------->
 
 ```
->>>git checkout -b develop
+>>>git checkout -b "branchename"
 ->This command will create a new branch and also switch to this new branch.
 >>>git checkout master
 >>>git branch
