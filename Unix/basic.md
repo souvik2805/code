@@ -119,7 +119,7 @@ It start with root (/)
  ```
  
  1. bin directory:
- =======================
+------------------------
 bin means binary.
 It contains all binary executables realted to our linux commmands.
 ```
@@ -130,7 +130,7 @@ cd
 ```
 
 2. sbin directory
-===================
+--------------------
 sbin means systembin.
 
 normal user used commands related binary executable files availble in bin directory.
@@ -141,7 +141,7 @@ network mangement
 ```
 
 3. etc directory
-======================
+------------------
 This directrory contains all system configuration files.
 These configuration files can be used by operation system it self.
 
